@@ -3,4 +3,4 @@
     error_reporting(0);
     error_reporting(E_ERROR | E_PARSE);
     header("content-type:text/javascript;charset=utf-8");
-    $link = mysqli_connect('localhost', 'root', 'WmHhv59sl3@VTA9F', "mitteapp");
+    $link = mysqli_connect('localhost', 'id19536774_root', '<I]xIFp-i+8%o9Jr', "id19536774_mitteapp");
